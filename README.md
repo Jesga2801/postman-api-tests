@@ -46,3 +46,13 @@ Durante os testes, foi possível compreender:
 - Interpretação de códigos de status HTTP (200, 201, 404)
 - Estrutura e envio de JSON no body da requisição
 - Importância da validação de endpoint e parâmetros
+## 📷 Evidências dos testes
+
+### GET - 200 OK
+![GET 200](prints/get_200.png)
+
+### GET - 404 Not Found
+![GET 404](prints/get_404.png)
+
+### POST - 201 Created
+![POST 201](prints/post_201.png)
